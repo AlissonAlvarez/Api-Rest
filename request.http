@@ -1,0 +1,240 @@
+###
+GET https://api-mern-6f4r.onrender.com/ HTTP/1.1
+
+###
+GET https://api-mern-6f4r.onrender.com/readMythological/ID/ HTTP/1.1
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2018/06/basilisco.jpg",
+    "name": "BASILISCO",
+    "category": "terrestres",
+    "description": "El basilisco era conocido desde la antigüedad como «el pequeño rey» o «el rey de las serpientes», pues se pensaba que era el peor y el más terrible de todos los reptiles."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/s.jpg",
+    "name": "CENTAURO",
+    "category": "terrestres",
+    "description": "El  es un ser con cuerpo de caballo y el torso, brazos y cabeza de hombre."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/ciclope.jpg",
+    "name": "CÍCLOPE",
+    "category": "terrestres",
+    "description": "Los cíclopes son gigantes de un solo ojo, muy fuertes, tercos y de emotividad abrupta."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/driada.jpg",
+    "name": "DRÍADA",
+    "category": "terrestres",
+    "description": "Las dríadas son duendes de los árboles con forma femenina, muy solitarias y de gran belleza."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/elfo.jpg",
+    "name": "ELFO",
+    "category": "terrestres",
+    "description": "Los elfos Son grandes conocedores de los bosques en los que habitan y sus ropas en tonos verdes les permiten camuflarse aún más dentro de este hábitat."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/ent.jpg",
+    "name": "ENT",
+    "category": "terrestres",
+    "description": "Un ent es un guardián de los bosques, híbrido entre hombre y árbol."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/08/ettin.jpg",
+    "name": "ETTIN",
+    "category": "terrestres",
+    "description": "Un ettin es un malvado y maloliente gigante de dos cabezas."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2012/11/gigante.jpg",
+    "name": "GIGANTE",
+    "category": "terrestres",
+    "description": "El gigante es una criatura de aspecto humanoide que se caracteriza por poseer un tamaño y fuerza descomunales."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/gorgona.jpg",
+    "name": "GORGONAS",
+    "category": "terrestres",
+    "description": "Una gorgona es una mujer guerrera con la cabellera viva y llena de serpientes, y una terrible mirada petrificante."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/hidra.jpg",
+    "name": "HIDRA",
+    "category": "terrestres",
+    "description": "La hidra es un monstruo gigante que tiene apariencia reptiliana y múltiples cabezas."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/licantropo.jpg",
+    "name": "LICÁNTROPO",
+    "category": "terrestres",
+    "description": "Los licántropos son seres humanos que pueden transformarse en animales total o parcialmente."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/08/minotauro.jpg",
+    "name": "MINOTAURO",
+    "category": "terrestres",
+    "description": "Los minotauros son inmensos humanoides con cabeza y cola de toro, muy fuertes y musculosos."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/naga.jpg",
+    "name": "NAGA",
+    "category": "terrestres",
+    "description": "Las nagas son serpientes semidivinas hindúes con torso y cara humana, generalmente de mujer."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/ninfa.jpg",
+    "name": "NINFA",
+    "category": "terrestres",
+    "description": "Las ninfas son seres mágicos procedentes de las fuerzas de la naturaleza."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/ogro.jpg",
+    "name": "OGRO",
+    "category": "terrestres",
+    "description": "Los ogros son enormes humanoides de aspecto tosco y desagradable, mal carácter y muy guerrilleros."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/orco.jpg",
+    "name": "ORCO",
+    "category": "terrestres",
+    "description": "Un orco es una especie degenerada de los elfos, malvada y oscura."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/12/rakshasa.jpg",
+    "name": "RAKSHASA",
+    "category": "terrestres",
+    "description": "Procedentes de una antigua raza hindú de bestias mitológicas, los rakshasas son criaturas demoníacas que habitan bajo la forma de un felino humanoide."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"SÁTIRO",
+    "name": "https://www.seresmitologicos.net/wp-content/uploads/2011/05/satiro.jpg",
+    "category": "terrestres",
+    "description": "Los sátiros son criaturas salvajes propias de los montes y los bosques que se caracterizan por su carácter despreocupado, cruel y lascivo."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/troll.jpg",
+    "name": "TROLL",
+    "category": "terrestres",
+    "description": "Un troll es un horrible humanoide que se caracteriza por su capacidad de adaptación y regeneración."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/unicornio.jpg",
+    "name": "UNICORNIO",
+    "category": "terrestres",
+    "description": "El unicornio es un animal mágico de carácter noble, puro y muy espiritual."
+}
+###
+
+###
+PATCH https://api-mern-6f4r.onrender.com/updateMythological/ID/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"",
+    "name": "",
+    "category": "",
+    "description": ""
+}
+
+###
+DELETE https://api-mern-6f4r.onrender.com/deleteMythological/ID/ HTTP/1.1
