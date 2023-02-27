@@ -3,8 +3,8 @@ const dotenv = require('dotenv');
 const cors = require('cors');
 const bodyParser =require('body-parser');
 
-const Connection = require('./src/models/MythologicalConnection')
-const Routes = require('./src/routes/MythologicalRoutes');
+const Connection = require('./models/MythologicalConnection')
+const Routes = require('./routes/MythologicalRoutes');
 
 const PORT = process.env.PORT || 3000;
 const app = express();

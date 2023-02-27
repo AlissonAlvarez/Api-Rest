@@ -20,7 +20,7 @@ POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
 Content-Type: application/json
 
 {   
-    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/s.jpg",
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/centauros.jpg",
     "name": "CENTAURO",
     "category": "terrestres",
     "description": "El  es un ser con cuerpo de caballo y el torso, brazos y cabeza de hombre."
@@ -223,7 +223,39 @@ Content-Type: application/json
     "category": "terrestres",
     "description": "El unicornio es un animal mágico de carácter noble, puro y muy espiritual."
 }
+
 ###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/dragon.jpg",
+    "name": "DRAGÓN",
+    "category": "voladores",
+    "description": "Los dragones son inmensos reptiles alados pertenecientes a una de las razas más antiguas que existen en la mitología."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/esfinge.jpg",
+    "name": "ESFINGE",
+    "category": "voladores",
+    "description": "Una esfinge es un ser alado con cuerpo de león y torso humano. Su cabeza suele ir ataviada con el tocado de los dioses."
+}
+
+###
+POST https://api-mern-6f4r.onrender.com/createMythological/ HTTP/1.1
+Content-Type: application/json
+
+{   
+    "image":"https://www.seresmitologicos.net/wp-content/uploads/2011/05/estirge.jpg",
+    "name": "ESTIRGE",
+    "category": "voladores",
+    "description": "Las estirges son seres voladores que succionan sangre para vivir."
+}
 
 ###
 PATCH https://api-mern-6f4r.onrender.com/updateMythological/ID/ HTTP/1.1
